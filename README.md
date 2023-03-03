@@ -11,7 +11,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at Ain Shams University.
 
-- 🌱 &nbsp; Learning about Data Science.
+- 🌱 &nbsp; Learning about Backend Development.
 
 
 <h3>🛠 Tech Stack</h3>
@@ -20,16 +20,16 @@
 
 - 💻 &nbsp; Python | R | Java | C++ | C | C# | SQL 
 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript | Flask | ASP.Net
+- 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript | Flask
 
-- 🛢 &nbsp; Oracle Database | MySQL | SQLite3
-
-
+- 🛢 &nbsp; Oracle Database | Firebase | SQLite3
 
 
-<h3>🛠 My Objective</h3>
 
-- 🔧 &nbsp; Seeking a challenging Backend Internship position that will enable me to utilize my skills in programming, data structures, and algorithms to develop robust and efficient backend systems. I aim to gain hands-on experience in designing, implementing and maintaining backend infrastructure while working with industry experts, and to further enhance my knowledge in software engineering and computer science.
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; Become a Data Analyst Path -LinkedIn Learning-
 
 
 
