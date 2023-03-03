@@ -40,15 +40,15 @@
 - ⚽ &nbsp; [Fantasy Premier league (Game)](https://github.com/amirshokry1368/MiniFootballFantasy)
 
 - 📱 &nbsp; [Invisible Chatting Application (Android development)](https://github.com/amirshokry1368/Invisible)
-<!--
-- 💡 &nbsp; [N-Puzzle solver](https://github.com/MaarkNassef/N_Puzzle)
-
-- 💻 &nbsp; [Parallel Background Subtraction](https://github.com/MaarkNassef/ParallelBackgroundSubtraction)
--->
 
 - 🔐 &nbsp; [Security Package](https://github.com/amirshokry1368/SecurityPackage)
 
 - 🌐 &nbsp; [Pick Book](https://github.com/amirshokry1368/ITI-Project)
+
+- 🌐 &nbsp; [E-Shop](https://github.com/amirshokry1368/E-Shop)
+
+- 🔐 &nbsp; [Cyber Security Project Edition](https://github.com/amirshokry1368/CyberSecurityProject)
+
 
 <hr>
 
