@@ -22,14 +22,14 @@
 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript | Flask
 
-- 🛢 &nbsp; Oracle Database | Firebase | SQLite3
+- 🛢 &nbsp; Oracle Database | MySQL | SQLite3
 
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 My Objective</h3>
 
-- 🔧 &nbsp; Become a Data Analyst Path -LinkedIn Learning-
+- 🔧 &nbsp; Seeking a challenging Backend Internship position that will enable me to utilize my skills in programming, data structures, and algorithms to develop robust and efficient backend systems. I aim to gain hands-on experience in designing, implementing and maintaining backend infrastructure while working with industry experts, and to further enhance my knowledge in software engineering and computer science.
 
 
 
