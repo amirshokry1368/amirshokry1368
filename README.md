@@ -43,11 +43,11 @@
 
 - 🔐 &nbsp; [Security Package](https://github.com/amirshokry1368/SecurityPackage)
 
-- 🌐 &nbsp; [Pick Book](https://github.com/amirshokry1368/ITI-Project)
+- 🌐 &nbsp; [Pick Book (Web development)](https://github.com/amirshokry1368/ITI-Project)
 
-- 🌐 &nbsp; [E-Shop](https://github.com/amirshokry1368/E-Shop)
+- 🌐 &nbsp; [E-Shop (Android development)](https://github.com/amirshokry1368/E-Shop)
 
-- 🔐 &nbsp; [Cyber Security Project Edition](https://github.com/amirshokry1368/CyberSecurityProject)
+- 🔐 &nbsp; [Cyber Security Project Edition (Web development)](https://github.com/amirshokry1368/CyberSecurityProject)
 
 
 <hr>
