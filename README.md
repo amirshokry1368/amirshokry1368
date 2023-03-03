@@ -29,7 +29,7 @@
 
 <h3>🛠 My Objective</h3>
 
-- 🔧 &nbsp; Seeking a challenging Backend Internship position that will enable me to utilize my skills in programming, data structures, and algorithms to develop robust and efficient backend systems. I aim to gain hands-on experience in designing, implementing and maintaining backend infrastructure while working with industry experts, and to further enhance my knowledge in software engineering and computer science.
+- 🔧 &nbsp; Looking for a Backend Developer Internship to utilize my skills in programming languages, databases, and server-side technologies to design and maintain efficient backend systems. Passionate about software development, eager to learn from experienced professionals, and contribute to real-world projects while improving my programming skills, gaining practical experience, and collaborating effectively with cross-functional teams.
 
 
 
