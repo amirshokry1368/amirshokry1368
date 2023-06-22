@@ -20,7 +20,7 @@
 
 - 💻 &nbsp; Python | R | Java | C++ | C | C# | SQL 
 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript | Flask
+- 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript | Flask | Django
 
 - 🛢 &nbsp; Oracle Database | MySQL | SQLite3
 
@@ -29,13 +29,20 @@
 
 <h3>🛠 My Objective</h3>
 
-- 🔧 &nbsp; Looking for a Backend Developer Internship to utilize my skills in programming languages, databases, and server-side technologies to design and maintain efficient backend systems. Passionate about software development, eager to learn from experienced professionals, and contribute to real-world projects while improving my programming skills, gaining practical experience, and collaborating effectively with cross-functional teams.
+- 🔧 &nbsp; I am looking for an internship as a Backend Developer that will allow me to leverage my skills in creating web applications 
+            and developing software solutions.
 
 
 
 <h3>🖥 Projects</h3>
 
 - 🌐 &nbsp; [PopMap Online Store (Web development)](https://github.com/amirshokry1368/PopMap)
+  
+- 🔐 &nbsp; [Cyber Security Project Edition (Web development)](https://github.com/amirshokry1368/CyberSecurityProject)
+  
+- 🌐 &nbsp; [URL Shortener (Web development)](https://github.com/amirshokry1368/URL-Shortener)
+  
+- 🌐 &nbsp; [Pick Book (Web development)](https://github.com/amirshokry1368/ITI-Project)
 
 - ⚽ &nbsp; [Fantasy Premier league (Game)](https://github.com/amirshokry1368/MiniFootballFantasy)
 
@@ -43,11 +50,9 @@
 
 - 🔐 &nbsp; [Security Package](https://github.com/amirshokry1368/SecurityPackage)
 
-- 🌐 &nbsp; [Pick Book (Web development)](https://github.com/amirshokry1368/ITI-Project)
-
 - 🌐 &nbsp; [E-Shop (Android development)](https://github.com/amirshokry1368/E-Shop)
 
-- 🔐 &nbsp; [Cyber Security Project Edition (Web development)](https://github.com/amirshokry1368/CyberSecurityProject)
+
 
 
 <hr>
