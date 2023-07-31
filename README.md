@@ -35,8 +35,9 @@
 
 
 <h3>🖥 Projects</h3>
--🌐 &nbsp; [HR Assistant (Graduation Project) (Web development)](https://github.com/amirshokry1368/GraduationProject)
 
+- 🌐 &nbsp; [HR Assistant (Graduation Project) (Web development)](https://github.com/amirshokry1368/GraduationProject)
+  
 - 🌐 &nbsp; [PopMap Online Store (Web development)](https://github.com/amirshokry1368/PopMap)
   
 - 🔐 &nbsp; [Cyber Security Project Edition (Web development)](https://github.com/amirshokry1368/CyberSecurityProject)
