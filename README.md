@@ -29,8 +29,7 @@
 
 <h3>🛠 My Objective</h3>
 
-- 🔧 &nbsp; I am looking for an internship as a Backend Developer that will allow me to leverage my skills in creating web applications 
-            and developing software solutions.
+- 🔧 &nbsp; I am a dedicated and versatile web developer with a strong focus on backend development. Proficient in a wide range of programming languages such as Python, Java, C++, C#, and web technologies like HTML, CSS, and Bootstrap. I possess extensive experience in managing various databases, including MySQL, SQLite, and Oracle. Additionally, I am skilled in using Flask and Django frameworks, along with Git, GitHub, and Docker for version control and DevOps. With a keen grasp of OOP, data structures, algorithms, software design patterns, and system analysis, I am committed to delivering innovative and scalable web solutions. Currently expanding my expertise in ASP.NET, I'm excited to combine Python-based and .NET technologies for building robust and efficient web applications to meet diverse user needs.
 
 
 
